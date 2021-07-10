@@ -6,3 +6,5 @@ Dowload the pdf file to see more details. The coding is done using Ev3 visual pr
 * Sensors : Color sensor, IR sensor
 * Motors : Medium Motor, Large Motor (2nos)
 * CPU : EV3 brick
+## Program
+![Alt text](https://github.com/nikhilnnk/MazeSolving/blob/f889e4e1231ae6374a33de87f69681eda00bec6e/Screenshot%20(115).png?raw=true)
