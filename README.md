@@ -1,4 +1,4 @@
-# MazeSolving
+# Maze Solving Using LEGO EV3
 Modified Left wall following Algorithm.<br />
 Dowload the pdf file to see more details. The coding is done using Ev3 visual programming software.<br />
 ## Other Details
